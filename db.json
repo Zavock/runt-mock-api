@@ -1,0 +1,55 @@
+{
+  "vehiculos": [
+    {
+      "id": 1,
+      "placa": "ABC123",
+      "marca": "Chevrolet",
+      "modelo": "Aveo",
+      "anio": 2018,
+      "color": "Blanco",
+      "tipo_vehiculo": "Automóvil",
+      "nombre_propietario": "Carlos Pérez",
+      "cedula_propietario": "1023456789",
+      "soat_vigente": true,
+      "soat_vencimiento": "2025-06-30",
+      "rtm_vigente": true,
+      "rtm_vencimiento": "2025-03-15",
+      "tiene_multas": false,
+      "estado_vehiculo": "Activo"
+    },
+    {
+      "id": 2,
+      "placa": "XYZ456",
+      "marca": "Renault",
+      "modelo": "Logan",
+      "anio": 2020,
+      "color": "Gris",
+      "tipo_vehiculo": "Automóvil",
+      "nombre_propietario": "María Gómez",
+      "cedula_propietario": "1098765432",
+      "soat_vigente": false,
+      "soat_vencimiento": "2024-01-10",
+      "rtm_vigente": true,
+      "rtm_vencimiento": "2025-08-20",
+      "tiene_multas": true,
+      "estado_vehiculo": "Activo"
+    },
+    {
+      "id": 3,
+      "placa": "MNO789",
+      "marca": "Mazda",
+      "modelo": "3",
+      "anio": 2021,
+      "color": "Negro",
+      "tipo_vehiculo": "Automóvil",
+      "nombre_propietario": "Juan Rodríguez",
+      "cedula_propietario": "1045678901",
+      "soat_vigente": true,
+      "soat_vencimiento": "2025-12-01",
+      "rtm_vigente": false,
+      "rtm_vencimiento": "2024-05-10",
+      "tiene_multas": false,
+      "estado_vehiculo": "Robado"
+    }
+  ]
+}
