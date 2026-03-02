@@ -1,7 +1,43 @@
 {
   "vehiculos": [
-    { "id": "ABC123", "placa": "ABC123", "marca": "Chevrolet", "modelo": "Aveo", "nombre_propietario": "Carlos Pérez", "cedula_propietario": "1023456789" },
-    { "id": "XYZ456", "placa": "XYZ456", "marca": "Renault", "modelo": "Logan", "nombre_propietario": "María Gómez", "cedula_propietario": "1098765432" },
-    { "id": "MNO789", "placa": "MNO789", "marca": "Mazda", "modelo": "3", "nombre_propietario": "Juan Rodríguez", "cedula_propietario": "1045678901" }
+    {
+      "id": "ABC123",
+      "placa": "ABC123",
+      "nombre_propietario": "Carlos Pérez",
+      "cedula_propietario": "1023456789",
+      "fecha_nacimiento": "1985-03-15",
+      "telefono": "3001234567",
+      "correo": "carlos.perez@gmail.com",
+      "direccion": "Calle 45 # 23-10, Bogotá",
+      "marca": "Chevrolet",
+      "modelo": "Aveo",
+      "valor_estimado": 35000000
+    },
+    {
+      "id": "XYZ456",
+      "placa": "XYZ456",
+      "nombre_propietario": "María Gómez",
+      "cedula_propietario": "1098765432",
+      "fecha_nacimiento": "1990-07-22",
+      "telefono": "3109876543",
+      "correo": "maria.gomez@gmail.com",
+      "direccion": "Carrera 15 # 80-45, Medellín",
+      "marca": "Renault",
+      "modelo": "Logan",
+      "valor_estimado": 42000000
+    },
+    {
+      "id": "MNO789",
+      "placa": "MNO789",
+      "nombre_propietario": "Juan Rodríguez",
+      "cedula_propietario": "1045678901",
+      "fecha_nacimiento": "1978-11-30",
+      "telefono": "3157894561",
+      "correo": "juan.rodriguez@gmail.com",
+      "direccion": "Avenida 68 # 12-34, Cali",
+      "marca": "Mazda",
+      "modelo": "3",
+      "valor_estimado": 58000000
+    }
   ]
 }
